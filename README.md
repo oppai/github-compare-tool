@@ -1,6 +1,8 @@
 # CompareTool for Github
 Githubに簡単にCompareするツールを配置するChrome拡張です。
 
+![](http://gifzo.net/oYIQDDCJdb.gif)
+
 # Install
 * リポジトリをclone
 * Chromeでchrome://extensions/を開く
