@@ -5,7 +5,7 @@
     "description": "Compareボタンを配置します",
     "content_scripts": [
     {
-      "matches": ["https://github.com/*/*/commits/*"],
+      "matches": ["https://github.com/*/*/commits*"],
       "js": [
               "jquery.min.js",
               "main.js"
